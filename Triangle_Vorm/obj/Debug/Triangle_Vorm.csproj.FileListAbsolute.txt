@@ -1,0 +1,17 @@
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\bin\Debug\Triangle_Vorm.exe.config
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\bin\Debug\Triangle_Vorm.exe
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\bin\Debug\Triangle_Vorm.pdb
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\bin\Debug\ru-BY\Triangle_Vorm.resources.dll
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\bin\Debug\ru\Triangle_Vorm.resources.dll
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.csproj.AssemblyReference.cache
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.Form1.resources
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.My_form.resources
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.Properties.Resources.resources
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.Form1.ru-BY.resources
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.Form1.ru.resources
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.csproj.GenerateResource.cache
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\ru-BY\Triangle_Vorm.resources.dll
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\ru\Triangle_Vorm.resources.dll
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.exe
+C:\Users\opilane\Source\Repos\Triangle_Vorm\Triangle_Vorm\obj\Debug\Triangle_Vorm.pdb
