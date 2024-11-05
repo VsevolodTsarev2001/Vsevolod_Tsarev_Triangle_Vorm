@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Triangle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <A>12</A>
+  <B>12</B>
+  <C>12</C>
+  <GetSetA>12</GetSetA>
+  <GetSetB>12</GetSetB>
+  <GetSetC>12</GetSetC>
+</Triangle>
